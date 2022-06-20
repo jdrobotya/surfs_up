@@ -4,7 +4,9 @@ The purpose of this project is to identify temperature trends or the months of J
 
 ## Results:
 Based on the statistics results for June and December, the fluctuation between the temperature is not significant. Mean temperature in December is 71 degrees Fahrenheit and mean temperature in June is 74. 
+
 ![Screen Shot 2022-06-19 at 9 21 35 PM](https://user-images.githubusercontent.com/103322251/174509334-6291d351-bf1b-4527-955c-aae3d0b6d7b3.png)
+
 ![Screen Shot 2022-06-19 at 9 22 43 PM](https://user-images.githubusercontent.com/103322251/174509400-59e71e98-085c-4596-8c66-9a15a2660a31.png)
 
 If we check by Max/Min temperatures, we can say that max temperature in June and December are almost the same, it's 85 degrees Fahrenheit and  83 degrees Fahrenheit respectively. Min temperature in June and December has bigger fluctuation - 64 and 56 respectively. 
